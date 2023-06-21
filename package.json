@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "sdm": "^0.0.2"
+  }
+}
